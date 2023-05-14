@@ -73,7 +73,7 @@ section .section-title {
 
 /* HEADER */
 .header-section {
-	background-image: url("/img/profile/bgdik.jpg");
+	background-image: url("img/profile/bgdik.jpg");
 	background-size: cover;
 	background-position: center;
 	width: 100%;
